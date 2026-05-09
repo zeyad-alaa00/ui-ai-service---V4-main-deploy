@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+.git/
+.vscode/
+hf_cache/
+models/
+qwenmodel/
+*.ipynb
+.env
